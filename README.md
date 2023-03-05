@@ -20,7 +20,7 @@ Antes de começar, você precisa configurar o ambiente de execução do flutter,
 - [Flutter SDK](flutter.dev/docs/get-started/install/windows.)
 - [Android Studio](developer.android.com/studio)
 - [Visual Studio Code](code.visualstudio.com/Download)
-- Após a instalação do Visual Studio Code e instale as seguintes extensões Dart e Flutter
+- Após a instalação do Visual Studio Code, instale as seguintes extensões: Dart e Flutter
 
 ## Instalação e Execução
 
